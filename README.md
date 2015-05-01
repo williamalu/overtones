@@ -1,6 +1,6 @@
 # overtones
 
-A project to decompose a musical tone into its composite sine waves. Feed in singular note (not a pure tone), and the program will break it down into its overtones AND isolate a chosen overtone.
+A project to decompose a musical tone into its composite sine waves.
 
 ## Creators
 **Michael "The Mongolian Throat Singer" Costello**
