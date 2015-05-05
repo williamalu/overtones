@@ -64,10 +64,10 @@ def spectrum_plot():
         spectrum = np.fft.fft(numpydata)
         freq = np.fft.fftfreq(n, 1./RATE)
 
-        # plots data
-        # x axis is frequency (hz)
-        # y axis is power
+        # plots data, x axis is frequency (hz), y axis is power
         plt.plot(freq, np.absolute(spectrum))
+        plt.xlabel("Frequency (Hz)")
+        plt.ylabel("Amplitude")
         plt.draw()
         i += 1
         # time.sleep(0.05)
