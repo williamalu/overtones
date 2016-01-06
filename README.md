@@ -30,7 +30,7 @@ If you are not in Ubuntu, installation instructions for your OS can be found on 
 ```
 sudo apt-get install python-matplotlib 
 ```
-If you are not in Ununtu, or have problems with the download, further download instructions can be found on [matplotlib.org](http://matplotlib.org/users/installing.html).
+If you are not in Ubuntu, or have problems with the download, further download instructions can be found on [matplotlib.org](http://matplotlib.org/users/installing.html).
 
 **Running Overtones**
 
